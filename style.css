@@ -1,0 +1,11 @@
+body {
+    font-style: normal;
+}
+
+h1 ::before{
+    font-family: sans-serif;
+}
+
+h1 ::after{
+    font-family:sans-serif;
+}
